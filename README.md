@@ -33,7 +33,7 @@ My work spans:
 
 ### Highlighted Projects
 
-### **RTOS Simulator (C)** 
+### **RTOS Simulator** 
 A preemptive scheduler simulator built with `ucontext` + `SIGALRM`, modelling priority-based RTOS behaviour.  
 **Features:** context switching, mutexes, periodic tasks, cooperative/preemptive switching.
 
