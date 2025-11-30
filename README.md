@@ -15,4 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About me
+
 I'm Alex! An embedded software engineer who enjoys performance profiling and optimizations.
+My work spans:
+
+- C/C++ on Linux and Bare-metal systems
+- Optimised data pipelines (SIMD, multithreading, cache-aware code)
+- SPI/I2C/GPIO protocol integration
+- Linux tooling, build systems, and performance instrumentation
+
+
+### Technical Focus
+
+- **languages:** C, C++, Python, Bash, x86/ARM assembly
+- **Systems and tooling:** Linux, GDB, perf, valgrind/cachegrind, llvm-mca, flamegraphs, Make/CMake, Docker
+- 
