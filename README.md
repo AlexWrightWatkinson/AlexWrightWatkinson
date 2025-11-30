@@ -41,7 +41,7 @@ A preemptive scheduler simulator built with `ucontext` + `SIGALRM`, modelling pr
 
 ### **Persistence of Vision Display (MEng Project)**
 A 1-metre dynamically-addressed POV display: wirelessly powered, video-driven, and timing-critical.  
-I led the Raspberry Pi subsystem (C/Python), video decode, SIMD-backed transforms, and custom SPI streaming protocol. Handling both image and video up to 30 FPS.
+I led the Raspberry Pi subsystem (C), video decode, SIMD-backed transforms, and custom SPI streaming protocol. Handling both image and video up to 30 FPS.
 
 ### What I'm Working On
 
