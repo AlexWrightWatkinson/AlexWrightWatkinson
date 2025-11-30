@@ -30,4 +30,22 @@ My work spans:
 
 - **languages:** C, C++, Python, Bash, x86/ARM assembly
 - **Systems and tooling:** Linux, GDB, perf, valgrind/cachegrind, llvm-mca, flamegraphs, Make/CMake, Docker
-- 
+
+### Highlighted Projects
+
+### **RTOS Simulator (C)** 
+A preemptive scheduler simulator built with `ucontext` + `SIGALRM`, modelling priority-based RTOS behaviour.  
+**Features:** context switching, mutexes, periodic tasks, cooperative/preemptive switching.
+
+**Repo:** https://github.com/AlexWrightWatkinson/RTOS-Simulator
+
+### **Persistence of Vision Display (MEng Project)**
+A 1-metre dynamically-addressed POV display: wirelessly powered, video-driven, and timing-critical.  
+I led the Raspberry Pi subsystem (C/Python), video decode, SIMD-backed transforms, and custom SPI streaming protocol. Handling both image and video up to 30 FPS.
+
+### What I'm Working On
+
+- A series of **Embedded Linux mini-projects** (device drivers, kernel interfaces, schedulers)  
+- Performance engineering deep dives (SIMD, CPU pipelines, benchmarks, micro-optimisation)  
+- Improving my tooling mastery: `perf`, BPF, LTTng, clang-tidy/format, qemu, buildroot/Yocto basics
+- Performance investigation into increasingly complex implementations of single-producer single-consumer queues
