@@ -43,6 +43,8 @@ A preemptive scheduler simulator built with `ucontext` + `SIGALRM`, modelling pr
 A 1-metre diameter dynamically-addressed POV display: wirelessly powered, video-driven, and timing-critical.  
 I led the Raspberry Pi subsystem (C), video decode, SIMD-backed transforms, and custom SPI streaming protocol handling both image and video up to 30 FPS.
 
+**Repo:** https://github.com/AlexWrightWatkinson/Persistence-of-Vision-Display
+
 ### What I'm Working On
 
 - A series of **Embedded Linux mini-projects** (device drivers, kernel interfaces, schedulers)  
